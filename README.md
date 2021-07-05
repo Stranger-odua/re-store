@@ -1,1 +1,1 @@
-начал 9. Отправка действий в Redux Store (action dispatch)
+Закончил 9. Отправка действий в Redux Store (action dispatch)

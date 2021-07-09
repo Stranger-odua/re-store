@@ -23,3 +23,4 @@ const ShopHeader = ({numItems, total}) => {
 };
 
 export default ShopHeader;
+

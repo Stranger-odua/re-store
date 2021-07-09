@@ -10,3 +10,4 @@
     12. Отличия setState и reducer
     13. Обработка ошибок
     14. mapDispatchToProps аргумент ownProps
+    15. Naming Convention для действий

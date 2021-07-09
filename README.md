@@ -11,3 +11,4 @@
     13. Обработка ошибок
     14. mapDispatchToProps аргумент ownProps
     15. Naming Convention для действий
+    16. Компоненты-контейнеры

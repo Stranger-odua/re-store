@@ -76,9 +76,10 @@ const reducer = (state = initialState, action) => {
       const itemIndex = state.cartItems.findIndex(({id}) => id === bookId)
       const item = state.cartItems[itemIndex]
 
+      const newItem = updateCartItem(book, item)
       return {
         ...state,
-        cartItems: updateCartItems(state.cartItems, item, itemIndex)
+        cartItems: updateCartItems(state.cartItems, newItem, itemIndex)
       }
 
     default:

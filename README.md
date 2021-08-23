@@ -28,3 +28,4 @@
     21. Организация кода reducer'а
     22. Store Enhancers
     23. Middleware
+    24. Thunk

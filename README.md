@@ -27,3 +27,4 @@
     20. Redux удаление элементов из массива
     21. Организация кода reducer'а
     22. Store Enhancers
+    23. Middleware
